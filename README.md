@@ -1,5 +1,4 @@
 # NetCheck server
----
 Rust programming language playground project written just for fun. Initial purpose was to start using it instead of slow ``curl ifconfig.me`` (which I use a lot). So no need to install ``curl`` now when it is not needed, because `netcat` or `telnet` is sufficient and usually preinstalled.
 
 #### Build and run
