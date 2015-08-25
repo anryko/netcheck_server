@@ -1,4 +1,7 @@
 [package]
 name = "netcheck_server"
 version = "0.1.0"
-authors = ["dh-andrej <andrej.svenke@deliveryhero.com>"]
+authors = ["anryko <a.shvenke@gmail.com>"]
+
+[dependencies]
+libc = "*"
