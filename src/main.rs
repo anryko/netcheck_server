@@ -1,5 +1,3 @@
-#![feature(ip_addr)]
-
 use std::net::{TcpListener, TcpStream};
 use std::thread;
 use std::io::Write;
